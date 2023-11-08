@@ -3,7 +3,6 @@ package testPackage;
 import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 
-@Ignore
 public class TestNGGroupsDemo {
 	
 	@Test(groups= {"sanity"})
